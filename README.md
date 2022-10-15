@@ -1,2 +1,2 @@
-# concurrent_programming_with_python
+# Concurrent Programming With Python
 Test scripts for understanding concurrent and asynchronous programming with python
