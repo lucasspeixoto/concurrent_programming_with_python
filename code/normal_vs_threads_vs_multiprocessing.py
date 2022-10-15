@@ -89,8 +89,8 @@ if __name__ == "__main__":
     main()
 
 """
-Pure Finish in 13.92 s
-With Threads Finish in 10.68 s
-With Multiprocessing Finish in 4.18 s
+Pure Finish in 13.24 s
+With Threads Finish in 9.89 s
+With Multiprocessing Finish in 3.73 s
 
 """
